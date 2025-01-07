@@ -1,0 +1,4 @@
+- Алгоритм большинства голосов Бойера — Мура [wiki](https://ru.wikipedia.org/wiki/Алгоритм_большинства_голосов_Бойера_—_Мура)
+- Алгоритм Кадана [wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+- Решето Эратосфена [wiki](https://ru.wikipedia.org/wiki/Решето_Эратосфена)
+- Алгоритм Дейкстры [wiki](https://ru.wikipedia.org/wiki/Алгоритм_Дейкстры)
