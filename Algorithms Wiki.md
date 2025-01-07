@@ -2,3 +2,4 @@
 - Алгоритм Кадана [wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 - Решето Эратосфена [wiki](https://ru.wikipedia.org/wiki/Решето_Эратосфена)
 - Алгоритм Дейкстры [wiki](https://ru.wikipedia.org/wiki/Алгоритм_Дейкстры)
+- Алгоритм Кнута — Морриса — Пратта [wiki](https://ru.wikipedia.org/wiki/Алгоритм_Кнута_—_Морриса_—_Пратта)
