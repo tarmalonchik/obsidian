@@ -165,9 +165,10 @@
   },
   "active": "eb7e58c803463507",
   "lastOpenFiles": [
-    "Подготовка к собеседованию.md",
-    "Postgres.md",
     "Golang.md",
+    "Postgres.md",
+    "PG bouncer.md",
+    "Подготовка к собеседованию.md",
     "Learning.md",
     "Diffie-Hellmann.md",
     "Pasted image 20250224184045.png",
