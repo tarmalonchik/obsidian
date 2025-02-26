@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres.md",
+                "file": "Golang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postgres"
+              "title": "Golang"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "eb7e58c803463507",
   "lastOpenFiles": [
-    "Golang.md",
     "Postgres.md",
+    "Golang.md",
     "PG bouncer.md",
     "Подготовка к собеседованию.md",
     "Learning.md",

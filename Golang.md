@@ -305,3 +305,37 @@ x, ok := <-c1
 ## Profiling
 
 ## Задачи
+
+```
+func main() {  
+    values := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}  
+  
+    for i := range values {  
+       go func() {  
+          fmt.Println(values[i])  
+       }()  
+    }  
+    time.Sleep(1 * time.Second)  
+}
+```
+Данный код напечатает число 9 - 9 раз в go < 1.22. В новых версиях golang данную ошибку починили. 
+
+
+```
+func main() {  
+    numbers := []int{1, 2, 3, 4}  
+    pointers := []*int{}  
+  
+    // This code will add four pointers to the same variable "n"  
+    for _, n := range numbers {  
+       pointers = append(pointers, &n)  
+    }  
+  
+    // This code will print the last element of the slice four times  
+    for _, p := range pointers {  
+       fmt.Println(*p)  
+    }  
+}
+```
+Данный код выведет число 4 4 раза в go < 1.22. В новых версиях golang данную ошибку починили. 
+
